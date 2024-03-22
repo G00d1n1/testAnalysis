@@ -1,0 +1,33 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+
+
+.App {margin: 10px;}
+.formA {width: 460px;;}
+
+.application{max-width:min-content;}
+.postItem {display: flex;}
+.postTitle {margin-left: 5px;}
+
+.itemResult {display: flex;}
+.itemKey, .itemValue {display: inline-flex;}
+/* .tableValues{width: 500px; height: 500px; display: flex;flex-wrap: wrap;} */
+/* .itemKey {display: flex; flex-wrap: wrap;} */
+/* .tableResults {height: 50px;} */
+
+/* .table-mable {background-color: #fff; width: 100%;}
+.table-mable td {border: 1px solid lightgray; width: 18px; text-align: center; }
+.trHead td{background-color: lightgray;}
+.totalResult, .totalCount {color: #fff; width: 100%; height: 100px;;} */
